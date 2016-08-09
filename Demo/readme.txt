@@ -1,4 +1,4 @@
-*** please run the demo by running run.sh or run.bat depending on your deployed OS ***
+*** please run the demo by running run.sh or copy the command to a bat file if you are running on a windows machine ***
 
 *** if you want to test with other datasets, please point to the new data files in application.properties file ***
 
